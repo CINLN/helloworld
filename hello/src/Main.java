@@ -6,6 +6,6 @@
  **/
 public class Main {
     public static void main(String[] args) {
-        System.out.println("as2as!");
+        System.out.println("11111!");
     }
 }
